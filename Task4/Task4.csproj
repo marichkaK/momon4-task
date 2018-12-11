@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\DBSQLServerUtils.cs" />
     <Compile Include="Controllers\DBUtils.cs" />
     <Compile Include="Controllers\IOController.cs" />
     <Compile Include="Program.cs" />
